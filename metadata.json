@@ -1,0 +1,10 @@
+{
+  "name": "Happy Birthday Jeno - Spider-Man Mission",
+  "description": "Surprise ulang tahun bertema Spider-Man untuk Jeno dengan alur terpadu: Amplop Rahasia, 3 Mini Games, Make a Wish & Tiup Lilin, Surat Ucapan Romantis, dan Galeri Foto Polaroid.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
